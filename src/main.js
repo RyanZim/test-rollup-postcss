@@ -1,4 +1,4 @@
-import postcss from 'postcss/lib/postcss.es6'
+import postcss from 'postcss'
 
 const css = `p {
   color: red
